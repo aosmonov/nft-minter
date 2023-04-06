@@ -50,7 +50,7 @@ export default function Home() {
       });
 
       const result = await Promise.all(promises);
-      console.log(result);
+      
       setTokens(result);
     };
     
@@ -77,7 +77,7 @@ export default function Home() {
         <title>Nft minter</title>
         <meta
           name="description"
-          content="Frontend for Document Sign application"
+          content="Rock paper scissors NFT minter"
         />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />

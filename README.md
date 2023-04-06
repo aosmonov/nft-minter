@@ -1,5 +1,5 @@
-# Documentsign-react
-This is a document sign project implemented in react. It uses contract deployed to bnb testnet and signs texts(documents). 
+# NFT-Minter
+This is a nft minter project implemented in react. It mints Rock Paper Scissor images. 
 
 ## Getting Started
 To run development server pull this repository and run
